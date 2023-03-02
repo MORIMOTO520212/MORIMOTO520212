@@ -1,4 +1,4 @@
-Self-introduction: ウェブ開発や自動化ソフトの開発をしています。
+ウェブ開発や自動化ソフトの開発をしています。
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MORIMOTO520212&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
