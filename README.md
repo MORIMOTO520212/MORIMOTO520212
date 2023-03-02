@@ -1,4 +1,4 @@
-ウェブや自動化ソフトの開発をしています。
+ウェブ開発や自動化ソフトの開発をしています。
 
 <!---
 MORIMOTO520212/MORIMOTO520212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
