@@ -8,6 +8,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=MORIMOTO520212&repo=waxaHP)](https://github.com/MORIMOTO520212/waxaHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=MORIMOTO520212&repo=SidevargHP)](https://github.com/MORIMOTO520212/SidevargHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=MORIMOTO520212&repo=iput-circle-hp)](https://github.com/MORIMOTO520212/iput-circle-hp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=MORIMOTO520212&repo=chuyasai2023)](https://github.com/MORIMOTO520212/chuyasai2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=MORIMOTO520212&repo=VTuber-Cyclic-YouTubeLive)](https://github.com/MORIMOTO520212/VTuber-Cyclic-YouTubeLive)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=MORIMOTO520212&repo=nijisanji-vocablary)](https://github.com/MORIMOTO520212/nijisanji-vocablary)
 
