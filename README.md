@@ -5,6 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MORIMOTO520212&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ウェブ制作
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=winc1980&repo=recipe-ai)](https://github.com/winc1980/recipe-ai)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=MORIMOTO520212&repo=waxaHP)](https://github.com/MORIMOTO520212/waxaHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=MORIMOTO520212&repo=SidevargHP)](https://github.com/MORIMOTO520212/SidevargHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=MORIMOTO520212&repo=iput-circle-hp)](https://github.com/MORIMOTO520212/iput-circle-hp)
